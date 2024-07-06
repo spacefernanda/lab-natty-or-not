@@ -20,16 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natty or fake natty?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Mostrar algumas ferramentas de IAs para usar como precisar.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Hey Gey
+- D-ID
+- ChatGPT
+- MidJourney
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Apenas listei os sites e apps sobre IAS que podem facilitar o nosso dia a dia, em qualquer lugar, aprendidas no curso da dio.me
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
